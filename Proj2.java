@@ -5,9 +5,6 @@ import java.util.Random;
  *  Purpose of program: Generate and output random sample data.
  *  Determine which sample is the closest to the user query
  *  and output sample and query in text and in a graph
- *  Author Name: Meghana Karthic 
- *  JHED ID: 785802
- *  Date: September 30, 2021
  */
 
 public class Proj2 {
